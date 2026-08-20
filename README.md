@@ -4,3 +4,4 @@ Repository pertama saya untuk belajar github dari nol.
 - Memahami konsep dasar Git & GitHub
 - Membuat dan mengedit file via web
 - Melakukan commit perubahan kode
+- Menambahkan Kalimat baru 
